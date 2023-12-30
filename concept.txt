@@ -1,0 +1,2 @@
+Openzeppelin provides two types of proxy contracts 
+TransparentUpgradeableProxy and UUPS  
